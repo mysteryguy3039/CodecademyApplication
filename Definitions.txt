@@ -1,0 +1,19 @@
+•	Linked Lists
+	- A series of nodes that point to one another like a chain. A singly list will only go in one direction, but a doubly list can go
+	forwards and backwards on the chain.
+
+•	Stacks
+	- A way of storing nodes using the LIFO (Last In, First Out) concept, such as, a stack of books.
+
+•	Hash Maps
+	- A way to have key-value pairs where the key is created by a hash function. The benefit being that it's quicker to access
+	the data than a standard index value.
+
+•	Trees
+	- A series of child nodes stemming from a root node. Any amount of child nodes can branch off the original root node and then
+	more child nodes can branch off the first set of child nodes, making them parent nodes.
+
+•	Heaps
+	- A way of prioritizing the nodes in a tree by comparing the child node to the parent node based on their values and whether
+	the heap is a max heap (parent is greater than or equal to child) or a min heap (parent is less than or equal to child).
+	This style can determine what should be prioritized in a proccessing queue.
